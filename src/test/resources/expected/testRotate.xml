@@ -1,0 +1,15 @@
+<html>
+<body>
+<table>
+<tr>
+<td class="dead"></td><td class="dead"></td><td class="dead"></td>
+</tr>
+<tr>
+<td class="live"></td><td class="live"></td><td class="live"></td>
+</tr>
+<tr>
+<td class="dead"></td><td class="dead"></td><td class="dead"></td>
+</tr>
+</table>
+</body>
+</html>

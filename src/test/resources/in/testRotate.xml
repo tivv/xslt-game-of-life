@@ -1,0 +1,9 @@
+<html>
+    <body>
+        <table>
+            <tr><td class='dead'/><td class='live'/><td class='dead'/></tr>
+            <tr><td class='dead'/><td class='live'/><td class='dead'/></tr>
+            <tr><td class='dead'/><td class='live'/><td class='dead'/></tr>
+        </table>
+    </body>
+</html>
